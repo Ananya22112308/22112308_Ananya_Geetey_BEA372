@@ -1,6 +1,7 @@
 # 22112308_Ananya_Geetey_BEA372
-##Lab_1_ 19/06/23
-##Functions used:
+## Lab_1_ 19/06/23
+---
+## Functions used:
 `open()`
 used for opening the csv file , used 'r' to read it
 `.readlines`
